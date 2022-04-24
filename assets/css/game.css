@@ -31,8 +31,6 @@
 /* container of cards */
 #container{
     position: relative;
-    width: 95vw;
-    height: 58vh;
     margin: 0 auto;
     border-radius: 10px;
     align-items:center;
