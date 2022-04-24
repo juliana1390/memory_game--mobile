@@ -26,7 +26,17 @@
     -webkit-text-stroke-color: rgba(223, 14, 14);
     -webkit-text-stroke-width: 0.5px;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 1);
-    margin-top: 50%;
+    margin-top: 70%;
+}
+#modal_2{
+    font-family: "ZCOOL KuaiLe";
+    font-size: 6vw;
+    line-height: 2rem;
+    font-weight: 700;
+    -webkit-text-fill-color: rgba(223, 14, 14);
+    -webkit-text-stroke-color: rgba(223, 14, 14);
+    -webkit-text-stroke-width: 0.5px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 1);
 }
 /* container of cards */
 #container{
@@ -90,4 +100,29 @@
     animation-duration: 500ms;
     animation-fill-mode: forwards;
 }
-
+/* score box */
+#box-points{
+    position: relative;
+    top: -15vh;
+    left: 0vw;    
+    border: 5px solid yellowgreen;
+    border-radius: 10px;
+    width: 100px;
+    height: 60px;
+    box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.6);
+}
+/* points number - game page */
+#points{
+    font-family: "ZCOOL KuaiLe";
+    font-size: 3vw;
+    font-weight: 700;
+    padding: 5%;
+    color: yellowgreen;
+}
+/* score title - game page */
+#scr{
+    padding: 5%;
+    font-family: "ZCOOL KuaiLe";
+    font-size: 2vw;
+    color: yellowgreen;
+}
