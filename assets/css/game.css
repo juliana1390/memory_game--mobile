@@ -32,9 +32,8 @@
 #container{
     position: relative;
     border-radius: 10px;
-    justify-content: center;
     margin-top: 25vh;
-    margin-left: -80vw;
+    margin-right: 90vw;
 }
 .card{
     width: 70.85px;
