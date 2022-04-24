@@ -114,7 +114,7 @@
 /* points number - game page */
 #points{
     font-family: "ZCOOL KuaiLe";
-    font-size: 3vw;
+    font-size: 6vw;
     font-weight: 700;
     padding: 5%;
     color: yellowgreen;
@@ -123,6 +123,6 @@
 #scr{
     padding: 5%;
     font-family: "ZCOOL KuaiLe";
-    font-size: 2vw;
+    font-size: 5vw;
     color: yellowgreen;
 }
