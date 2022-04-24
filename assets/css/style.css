@@ -48,7 +48,7 @@
     letter-spacing: -0.015em;
     line-height: 3.5rem;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 1);
-    margin-top: -80vh;
+    margin-top: -85vh;
     align-items: center;
 }
 /* Fractions */
@@ -60,7 +60,6 @@
     font-weight: 700;
     -webkit-text-fill-color: #FEB72B;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 1);
-    margin-left: 5%;
     align-items: center;
 }
 #play{
@@ -71,8 +70,7 @@
 }
 #btn-play{
     position: relative;
-    margin-top: 5vh;
-    margin-left: 5%;
+    margin-top: 3vh;
     align-items: center;
 }
 #math{
