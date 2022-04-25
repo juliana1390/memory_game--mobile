@@ -111,11 +111,12 @@
     height: 60px;
     box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.6);
 }
-/* score title - victory page*/
-#scr{
-    padding: 5%;
+/* points - victory page */
+#points_vic{
+    padding: 1%;
     font-family: "ZCOOL KuaiLe";
-    font-size: 2vw;
+    font-size: 6vw;
+    font-weight: 700;
     color: yellowgreen;
 }
 

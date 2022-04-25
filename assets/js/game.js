@@ -232,6 +232,9 @@
     },3000);
     /* --------------------------------- call VICTORY page --------------------------------- */
     function victory(){
+        let points = document.querySelector("#points").innerHTML;
+        sessionStorage.setItem("points", points);
+
         window.location.replace("victory.html");
     }
 
